@@ -1,4 +1,9 @@
 CONFIG_LOCALVERSION="-perf"
+
+# Additional
+CONFIG_SOUND_CONTROL=y
+
+## Other configs
 # CONFIG_USELIB is not set
 CONFIG_AUDIT=y
 CONFIG_NO_HZ=y
